@@ -5,7 +5,7 @@
 .settings/
 /*/target/*
 /**/.classpath
-#/**/.project
+/**/.project
 /**/.springBeans
 #.gitignore
 *.im
