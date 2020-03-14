@@ -1,0 +1,11 @@
+
+# idea ignore
+#.idea/
+.idea/
+.settings/
+/*/target/*
+/**/.classpath
+#/**/.project
+/**/.springBeans
+#.gitignore
+*.im
